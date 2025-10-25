@@ -1,4 +1,3 @@
-# portfolio-seo-writing
 # SEOライティング ポートフォリオ
 
 ## About Me
